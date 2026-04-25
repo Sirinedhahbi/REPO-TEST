@@ -3,3 +3,4 @@ def main ():
     b = int(input("donner b "))
     print(a*b*b*a*a*a*b*a*b)
     print ("laylay")
+    print ("laylaylay")
